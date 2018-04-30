@@ -1,3 +1,5 @@
 Websocket\SensorHandler.class
+SensorService\DateHandler.class
+SensorService\MySQLClient.class
 Websocket\SensorWedSocketServer.class
 Model\Sensor.class
